@@ -11,3 +11,5 @@
 6. Найти кнопку "+Добавить исключение", нажать на нее и выбрать установленный файл (ATLAS).
 
 [Нажмите для скачивания](https://github.com/ssixvfivess/DVA/releases)
+![image](https://github.com/user-attachments/assets/e8bea0b8-2720-49ff-8fe1-470c54e03a6a)
+
