@@ -12,4 +12,7 @@
 
 [Нажмите для скачивания](https://github.com/ssixvfivess/DVA/releases)
 ![image](https://github.com/user-attachments/assets/e8bea0b8-2720-49ff-8fe1-470c54e03a6a)
+![image](https://github.com/user-attachments/assets/363fa175-8f78-49b3-8d6f-0c403536379a)
+![image](https://github.com/user-attachments/assets/ed2fdfa0-9a7f-412e-84c2-2e231fc60f94)
+
 
